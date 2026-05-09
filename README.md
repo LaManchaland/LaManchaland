@@ -4,10 +4,12 @@
 </div>
 
 <div align="center">
+  ⸝⸝⠀⠀
   <a href="https://github.com/pentarpunch">main</a>⠀⠀
   <a href="https://ewron.atabook.org">sign ata</a>⠀⠀
   <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
-  <a href="https://rentry.co/LettyK">rentry</a>
+  <a href="https://rentry.co/LettyK">rentry</a>⠀⠀
+  ❞
 
   ⠀⠀𐂯⠀⠀⠀⠀◞  ⌣⌣⠀⠀gimmick account⠀⠀
   <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀⟢⠀⠀links
