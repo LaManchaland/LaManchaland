@@ -1,7 +1,11 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=4000&pause=900&color=F70000&center=true&vCenter=true&multiline=true&width=1000&height=90&lines=My+name%E2%80%A6+is+Quixote!;I%2C+Don+Quixote%2C+declare+upon+my+honor%3A;this+lance+shall+end+that+hollow%2C+juvenile+dream!" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  gimmick account ⠀⠀links
+
+  <a href="https://github.com/pentarpunch">main</a>⠀⠀
+  <a href="https://ewron.atabook.org">sign ata</a>⠀⠀
+  <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
+  <a href="https://rentry.co/LettyK">rentry</a>
+</div>
 ⠀⠀
 
 ⠀⠀
