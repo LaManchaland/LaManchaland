@@ -12,7 +12,8 @@
   ❞
 
   ⠀⠀𐂯⠀⠀⠀⠀◞  ⌣⌣⠀⠀gimmick account⠀⠀
-  <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀⟢⠀⠀links
+  <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀⟢⠀⠀links  
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀꒷꒦︶⠀⠀⠀⠀ ๋ ࣭ ⭑⠀⠀꒷꒦⠀⠀꒷꒦︶
 </div>
 ⠀⠀
 
