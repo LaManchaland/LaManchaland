@@ -9,8 +9,8 @@
   <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
   <a href="https://rentry.co/LettyK">rentry</a>
 
-  gimmick account⠀⠀
-  <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀links
+  ⠀⠀𐂯⠀⠀⠀⠀◞  ⌣⌣⠀⠀gimmick account⠀⠀
+  <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀⟢⠀⠀links
 </div>
 ⠀⠀
 
