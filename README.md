@@ -1,3 +1,9 @@
+<div align="right">
+  <sub> <sup> desktop view is recommended </sup> </sub>
+</div>
+
+⠀⠀
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=arial&size=23&pause=2000&color=F70000&center=true&vCenter=true&width=435&lines=%E2%80%9CLook+at+me%2C+Sancho!%E2%80%9D" alt="Typing SVG" /></a>
