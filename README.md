@@ -8,11 +8,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=arial&size=23&pause=2000&color=F70000&center=true&vCenter=true&width=435&lines=%E2%80%9CLook+at+me%2C+Sancho!%E2%80%9D" alt="Typing SVG" /></a>
 
-  <img width="500" height="410" src="https://github.com/user-attachments/assets/8ff5e517-e857-4f4f-a406-cf392d733a1c" />
+  
+  <picture><img src="https://github.com/user-attachments/assets/8ff5e517-e857-4f4f-a406-cf392d733a1c" width="410" /></picture>
 </div>
 
 <div align="center">
-  ⸝⸝⠀⠀
+    ⸝⸝⠀⠀ 
   <a href="https://github.com/pentarpunch">main</a>⠀⠀
   <a href="https://ewron.atabook.org">sign ata</a>⠀⠀
   <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
