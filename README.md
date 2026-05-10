@@ -10,7 +10,11 @@
 
 <div align="center">
     ⸝⸝⠀⠀ 
-  <a href="https://github.com/pentarpunch">main</a>⠀⠀
+  <a href="https://github.com/pentarpunch">
+    <picture>
+      <img width="64" height="32" alt="IMG_20260510_160110" src="https://github.com/user-attachments/assets/d89b145f-360f-481f-abfa-a109330055b7" />
+    </picture>
+  </a>⠀⠀
   <a href="https://ewron.atabook.org">sign ata</a>⠀⠀
   <a href="https://pronouns.cc/@pm">pronouns.cc</a>⠀⠀
   <a href="https://rentry.co/LettyK">rentry</a>⠀⠀
