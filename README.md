@@ -18,7 +18,7 @@
     ⸝⸝⠀⠀ 
   <a href="https://github.com/pentarpunch">
     <picture>
-      <img width="64" height="32" alt="GitHub Main" src="https://github.com/user-attachments/assets/d89b145f-360f-481f-abfa-a109330055b7" />
+      <img width="64" height="32" src="https://github.com/user-attachments/assets/d89b145f-360f-481f-abfa-a109330055b7" alt="GitHub Main"/>
     </picture>
   </a>⠀⠀
   <a href="https://ewron.atabook.org">
