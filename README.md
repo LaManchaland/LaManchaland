@@ -1,6 +1,10 @@
 ## hi this is not done yet Ok
 
 <div align="center">
+  <picture>
+    <img width="400" height="12" alt="border" src="https://github.com/user-attachments/assets/6073cf0a-b38e-40f3-91d6-cb231b3799af" />
+  </picture>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitter&size=23&pause=2000&color=D78C73&center=true&vCenter=true&width=435&lines=%E2%80%9CLook+at+me%2C+Sancho!%E2%80%9D" alt="Typing SVG" /></a>
 
@@ -31,6 +35,10 @@
     </picture>
   </a>⠀⠀
   ❞
+
+<picture>
+  <img width="400" height="12" alt="border2" src="https://github.com/user-attachments/assets/6073cf0a-b38e-40f3-91d6-cb231b3799af" />
+</picture>
 
   ⠀⠀𐂯⠀⠀⠀⠀◞  ⌣⌣⠀⠀gimmick account⠀⠀
   <img src="https://github.com/user-attachments/assets/e9a49779-a35d-48cb-9596-5f48314ff6ae" />⠀⠀⟢⠀⠀links
