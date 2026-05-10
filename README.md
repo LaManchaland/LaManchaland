@@ -1,4 +1,4 @@
-## hi this is not done yet Ok
+### i somehow cant color text so this is a stub
 
 <div align="center">
   <picture>
