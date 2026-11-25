@@ -9,8 +9,8 @@
   <br>
   <br> ${\color{#B92623}{\textsf{Welcome}}}$
   <br> ${\color{#B92623}{\textsf{We are still under... construction (they say).}}}$
-  <br> ${\color{#B92623}{\textsf{In the meantime, you're able to send a nomination-}}}$
-  <br> ${\color{#B92623}{\textsf{request as it will go into pending list.}}}$
+  <br> ${\color{#B92623}{\textsf{In the meantime, you're able to send an nomination-}}}$
+  <br> ${\color{#B92623}{\textsf{-request as it will go into pending list.}}}$
 </p>
 <br>
 <br>
@@ -32,4 +32,11 @@
         </p>
       </td>
   </table>
+</p>
+<p align="center">
+  ${\color{#B92623}{\textsf{As of 18th November, 2026, we can't no longer easily access}}}$
+  <br> ${\color{#B92623}{\textsf{the driver for... a certain game, meaning our progress}}}$
+  <br> ${\color{#B92623}{\textsf{has been completely slowed down from finishing this}}}$
+  <br>
+  <br> ${\color{#B92623}{\textsf{(Please just do wait, actually)}}}$
 </p>
