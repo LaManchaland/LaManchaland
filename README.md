@@ -14,7 +14,7 @@
 </p>
 <br>
 <br>
-<p align="center">
+<p align="left">
   <table>
     <td>
       <div align="center">
