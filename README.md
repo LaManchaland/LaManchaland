@@ -1,6 +1,6 @@
+<div align="right">
+  <img width="400" src="https://file.garden/aWN13MtKZiQATeIX/La%20Manchaland%20Assets/icon" title="La Manchaland" />
+</div>
 <p align="center">
-  Next stop is... ${\color{#C30010}{\textsf{La Manchaland}}}$ Carnival!~
-  <br>
-  <br> Coming up next!
-  <br> See you soon
+  ${\color{#B92623}{\textsf{placeholder... hmm}}}$
 </p>
