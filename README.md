@@ -14,26 +14,27 @@
 </p>
 <br>
 <br>
-<p align="left">
-  <table>
+<table align="left">
+  <td>
+    <div align="center">
+      placeholder ~ border
+    </div>
+  </td>
+  <tr>
     <td>
-      <div align="center">
-        placeholder ~ border
-      </div>
+      <p align="center">
+        <img width="140" src="https://file.garden/aWN13MtKZiQATeIX/La%20Manchaland%20Assets/carousel.webp" />
+        <br>
+        <a href="https://ticket.atabook.org">nominate</a>
+        <br> report (coming up sooner)
+        <br>
+      </p>
     </td>
-    <tr>
-      <td>
-        <p align="center">
-          <img width="140" src="https://file.garden/aWN13MtKZiQATeIX/La%20Manchaland%20Assets/carousel.webp" />
-          <br>
-          <a href="https://ticket.atabook.org">nominate</a>
-          <br> report (coming up sooner)
-          <br>
-        </p>
-      </td>
-  </table>
+</table>
 </p>
 <p align="center">
+  <br>
+  <br>
   ${\color{#B92623}{\textsf{As of 18th November, 2026, we can't no longer easily access}}}$
   <br> ${\color{#B92623}{\textsf{the driver for... a certain game, meaning our progress}}}$
   <br> ${\color{#B92623}{\textsf{has been completely slowed down from finishing this}}}$
