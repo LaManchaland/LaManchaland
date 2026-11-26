@@ -8,7 +8,7 @@
   <br> ${\color{#B92623}{\textsf{Let us march together, O happy tour}}}$
   <br> ${\color{#B92623}{\textsf{To the beat of upeat drums}}}$
   <br> ${\color{#B92623}{\textsf{Without worries or concerns}}}$
-  <br> ${\color{#B92623}{\textsf{Here at the grand Carnival of La Mancha}}}$
+  <br> <br> ${\color{#B92623}{\textsf{Here at the grand Carnival of La Mancha}}}$
   <br> ${\color{#B92623}{\textsf{(La Mancha!)}}}$
 </p>
 <br>
