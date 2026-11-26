@@ -5,12 +5,12 @@
   <img width="400" src="https://file.garden/aWN13MtKZiQATeIX/La%20Manchaland%20Assets/icon" align="right" title="La Manchaland" />
 </div>
 <p align="center">
-  ${\color{#B92623}{\textsf{Placeholder... Hmm}}}$
-  <br>
   <br> ${\color{#B92623}{\textsf{Welcome}}}$
-  <br> ${\color{#B92623}{\textsf{We are still under... construction (they say).}}}$
-  <br> ${\color{#B92623}{\textsf{In the meantime, you're able to send an nomination-}}}$
-  <br> ${\color{#B92623}{\textsf{-request as it will go into pending list.}}}$
+  <br> ${\color{#B92623}{\textsf{Let us march together, O happy tour}}}$
+  <br> ${\color{#B92623}{\textsf{To the beat of upeat drums}}}$
+  <br> ${\color{#B92623}{\textsf{Without worries or concerns}}}$
+  <br> ${\color{#B92623}{\textsf{Here at the grand Carnival of La Mancha}}}$
+  <br> ${\color{#B92623}{\textsf{(La Mancha!)}}}$
 </p>
 <br>
 <br>
