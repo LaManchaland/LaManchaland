@@ -24,9 +24,8 @@
     <td>
       <p align="center">
         <img width="140" src="https://file.garden/aWN13MtKZiQATeIX/La%20Manchaland%20Assets/carousel" />
-        <br>
-        <a href="https://ticket.atabook.org">nominate</a>
-        <br> report (coming up sooner)
+        <br> <a href="https://ticket.atabook.org">nominate</a>
+        <br> <a href="https://forms.gle/h7HHBP93pSUzXnHQ7">report</a>
         <br>
       </p>
     </td>
